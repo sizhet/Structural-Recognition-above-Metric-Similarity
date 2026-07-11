@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+
+title: "Information Job Shop (IJS): From Von Neumann Computing to Information Manufacturing"
+
+message: >
+  If you use this repository in your research,
+  please cite it using the metadata below.
+
+type: report
+
+authors:
+  - family-names: Tan
+    given-names: Sizhe
+
+abstract: >
+  Information Job Shop (IJS) proposes a new engineering paradigm
+  in which information itself becomes the computational workpiece.
+  Extending the classical Job Shop concept from manufacturing engineering,
+  the framework organizes heterogeneous computational resources around
+  dynamically evolving Information Jobs and introduces Information
+  Manufacturing as a higher-level abstraction for future AI systems.
+
+keywords:
+  - Artificial Intelligence
+  - Information Job Shop
+  - Information Manufacturing
+  - Information Jobs
+  - AI Agents
+  - Large Language Models
+  - Human-AI Collaboration
+  - Brain Units
+  - Runtime Systems
+  - Job Shop Scheduling
+  - Computational Organization
+  - Structural Intelligence
+
+license: Apache-2.0
+
+version: 1.0.0
+
+date-released: 2026-07-08
