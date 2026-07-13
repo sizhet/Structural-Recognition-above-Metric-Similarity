@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-message: "If you use or discuss this work, please cite it using the metadata below."
+
+message: "If you use, discuss, or build upon this work, please cite it using the metadata below."
 
 title: "Structural Recognition above Metric Similarity (SRMS): From Recognition-Gated Cosine Scoring to Recognition-Centered AI"
 
-type: article
+type: software
 
 version: 1.0.0
 
@@ -17,16 +18,16 @@ authors:
 
 abstract: >-
 Structural Recognition above Metric Similarity (SRMS) presents a
-recognition-centered computational architecture for future AI. It argues
-that structural identity, critical deltas, decision boundaries, runtime
-activation, runtime invariants, structural confidence, and certified
-structural assets should be established before metric similarity performs
-ranking and optimization. The repository introduces the Base-Delta
+recognition-centered computational architecture for future AI. The
+repository argues that structural identity, critical deltas, decision
+boundaries, runtime activation, Runtime Invariants, structural confidence,
+and certified structural assets should be established before metric
+similarity performs ranking and optimization. It introduces the Base-Delta
 Asymmetry Principle, Recognition-Gated Cosine Scoring, Small but Decisive
 Structural Deltas, Structural Recognition as Runtime Intelligence,
 Structural Confidence Accumulation, Certified Structural Components, and
-the Structural Recognition Pipeline for Future AI. Its central principle
-is that recognition establishes the computational world, while similarity
+the Structural Recognition Pipeline for Future AI. Its central principle is
+that recognition establishes the computational world, while similarity
 optimizes inside that world.
 
 keywords:
@@ -36,7 +37,7 @@ keywords:
 * Recognition-Centered AI
 * Recognition-Gated Cosine Scoring
 * Base-Delta Asymmetry
-* Structural Delta
+* Small but Decisive Structural Deltas
 * Decision Boundary
 * Runtime Intelligence
 * Runtime Invariant

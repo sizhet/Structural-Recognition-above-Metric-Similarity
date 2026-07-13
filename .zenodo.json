@@ -1,6 +1,6 @@
 {
   "title": "Structural Recognition above Metric Similarity (SRMS): From Recognition-Gated Cosine Scoring to Recognition-Centered AI",
-  "description": "Structural Recognition above Metric Similarity (SRMS) presents a recognition-centered computational architecture for future AI. The repository argues that structural identity, critical deltas, decision boundaries, runtime activation, runtime invariants, structural confidence, and certified structural assets should be established before metric similarity performs ranking and optimization. It introduces the Base-Delta Asymmetry Principle, Recognition-Gated Cosine Scoring, Small but Decisive Structural Deltas, Structural Recognition as Runtime Intelligence, Structural Confidence Accumulation, Certified Structural Components, and the Structural Recognition Pipeline for Future AI. The central principle is: Recognition establishes the computational world; similarity optimizes inside that world.",
+  "description": "Structural Recognition above Metric Similarity (SRMS) presents a recognition-centered computational architecture for future AI. The repository argues that structural identity, critical deltas, decision boundaries, runtime activation, Runtime Invariants, structural confidence, and certified structural assets should be established before metric similarity performs ranking and optimization. It introduces the Base-Delta Asymmetry Principle, Recognition-Gated Cosine Scoring, Small but Decisive Structural Deltas, Structural Recognition as Runtime Intelligence, Structural Confidence Accumulation, Certified Structural Components, and the Structural Recognition Pipeline for Future AI. The central principle is: Recognition establishes the computational world; similarity optimizes inside that world.",
   "creators": [
     {
       "name": "Tan, Sizhe"
@@ -15,7 +15,7 @@
     "Recognition-Centered AI",
     "Recognition-Gated Cosine Scoring",
     "Base-Delta Asymmetry",
-    "Structural Delta",
+    "Small but Decisive Structural Deltas",
     "Decision Boundary",
     "Runtime Intelligence",
     "Runtime Invariant",
@@ -38,12 +38,7 @@
       "identifier": "https://github.com/sizhet/Structural-Recognition-above-Metric-Similarity",
       "relation": "isSupplementTo",
       "scheme": "url"
-    },
-    {
-      "identifier": "https://github.com/sizhet/Structural-Recognition-above-Metric-Similarity/tree/v1.0.0",
-      "relation": "isVersionOf",
-      "scheme": "url"
     }
   ],
-  "notes": "This repository is part of the broader Structural Intelligence research program developed by Sizhe Tan and GPT-Obot. It is designed as a theory-and-architecture repository, with eight companion texts and nine figures forming a progressive visual and conceptual framework."
+  "notes": "This repository is part of the broader Structural Intelligence research program developed by Sizhe Tan and GPT-Obot. It contains eight technical papers and nine companion figures that form a progressive conceptual and visual framework for recognition-centered AI."
 }

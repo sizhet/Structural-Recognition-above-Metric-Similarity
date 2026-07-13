@@ -350,12 +350,6 @@ It is no longer responsible for determining structural identity.
 
 # 15. Conclusion
 
----
-
-![Fig-000—SRMS-Overview.png](./figures/Fig-000—SRMS-Overview.png)
-
----
-
 Modern AI has demonstrated the remarkable power of metric similarity.
 
 The next stage of AI development will require an equally strong capability for structural recognition.
