@@ -30,6 +30,10 @@ It is the entry point of runtime intelligence.
 
 ---
 
+![Fig-005—Structural-Recognition-as-Runtime-Intelligence.png](./figures/Fig-005—Structural-Recognition-as-Runtime-Intelligence.png)
+
+---
+
 # 1. Recognition Is More Than Classification
 
 Many AI systems treat recognition as the assignment of a category.

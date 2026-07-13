@@ -20,6 +20,10 @@ Recognizing these decisive structural deltas is therefore a prerequisite for rel
 
 ---
 
+![Fig-002—The-Base–Delta-Asymmetry-Principle.png](./figures/Fig-002—The-Base–Delta-Asymmetry-Principle.png)
+
+---
+
 # 1. The Symmetry Assumption Behind Metric Similarity
 
 Most similarity metrics implicitly assume that every component contributes proportionally to the overall distance.

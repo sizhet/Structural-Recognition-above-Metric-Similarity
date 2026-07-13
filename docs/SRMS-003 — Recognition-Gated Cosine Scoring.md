@@ -42,6 +42,10 @@ This architecture preserves the scalability and flexibility of cosine similarity
 
 ---
 
+![Fig-003—Recognition-Gated-Cosine-Scoring.png](./figures/Fig-003—Recognition-Gated-Cosine-Scoring.png)
+
+---
+
 # 1. Cosine Similarity Is Not the Enemy
 
 Cosine similarity has become foundational infrastructure for modern AI.

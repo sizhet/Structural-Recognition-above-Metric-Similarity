@@ -41,6 +41,10 @@ It is to place similarity inside a larger structural recognition architecture.
 
 ---
 
+![Fig-000—SRMS-Overview.png](./docs/figures/Fig-000—SRMS-Overview.png)
+
+---
+
 # Central Principle
 
 Traditional AI typically follows:
@@ -115,6 +119,12 @@ Reliable intelligence depends on performing these two computations in the correc
 
 ## SRMS-001 — Why Structural Recognition Must Stand above Metric Similarity
 
+---
+
+![Fig-001—From-Metric-Similarity-to-Structural-Recognition.png](./docs/figures/Fig-001—From-Metric-Similarity-to-Structural-Recognition.png)
+
+---
+
 Introduces the central principle of the repository.
 
 Explains why structural recognition should precede metric similarity.
@@ -122,6 +132,12 @@ Explains why structural recognition should precede metric similarity.
 ---
 
 ## SRMS-002 — The Base–Delta Asymmetry Principle
+
+---
+
+![Fig-002—The-Base–Delta-Asymmetry-Principle.png](./docs/figures/Fig-002—The-Base–Delta-Asymmetry-Principle.png)
+
+---
 
 Shows why a tiny structural delta can dominate a massive shared structural base.
 
@@ -131,6 +147,11 @@ Introduces one of the core theoretical principles of SRMS.
 
 ## SRMS-003 — Recognition-Gated Cosine Scoring
 
+---
+
+![Fig-003—Recognition-Gated-Cosine-Scoring.png](./docs/figures/Fig-003—Recognition-Gated-Cosine-Scoring.png)
+
+---
 Presents the primary algorithmic contribution.
 
 Cosine similarity is preserved but applied only after structural recognition has constructed a compatible candidate space.
@@ -138,6 +159,12 @@ Cosine similarity is preserved but applied only after structural recognition has
 ---
 
 ## SRMS-004 — Small but Decisive Structural Deltas
+
+---
+
+![Fig-004a—Small-but-Decisive-Structural-Deltas.png](./docs/figures/Fig-004a—Small-but-Decisive-Structural-Deltas.png)
+
+---
 
 Analyzes the structural differences that actually determine engineering decisions.
 
@@ -147,6 +174,12 @@ Shows why decision boundaries are structural rather than metric.
 
 ## SRMS-005 — Structural Recognition as Runtime Intelligence
 
+---
+
+![Fig-005—Structural-Recognition-as-Runtime-Intelligence.png](./docs/figures/Fig-005—Structural-Recognition-as-Runtime-Intelligence.png)
+
+---
+
 Proposes that recognition is not merely classification.
 
 Recognition activates the correct runtime, Calling Graph, Runtime Invariants, and computational world.
@@ -155,6 +188,12 @@ Recognition activates the correct runtime, Calling Graph, Runtime Invariants, an
 
 ## SRMS-006 — Structural Confidence Accumulation
 
+---
+
+![Fig-006—Structural-Confidence-Accumulation.png](./docs/figures/Fig-006—Structural-Confidence-Accumulation.png)
+
+---
+
 Introduces structural confidence as accumulated engineering evidence rather than statistical probability.
 
 Connects recognition to trustworthy decision making.
@@ -162,6 +201,12 @@ Connects recognition to trustworthy decision making.
 ---
 
 ## SRMS-007 — Certified Structural Components
+
+---
+
+![Fig-007—Certified-Structural-Components-and-Structural-Assets.png](./docs/figures/Fig-007—Certified-Structural-Components-and-Structural-Assets.png)
+
+---
 
 Explains how successful recognition becomes reusable engineering infrastructure through certification.
 
@@ -172,6 +217,10 @@ Introduces Certified Structural Assets as long-term computational capital.
 ## SRMS-008 — The Structural Recognition Pipeline for Future AI
 
 Integrates the entire repository into one recognition-centered computational architecture for future AI.
+
+---
+
+![Fig-000—SRMS-Overview.png](./docs/figures/Fig-000—SRMS-Overview.png)
 
 ---
 

@@ -24,6 +24,10 @@ This principle provides a foundation for future AI systems capable of reliable r
 
 ---
 
+![Fig-001—From-Metric-Similarity-to-Structural-Recognition.png](./figures/Fig-001—From-Metric-Similarity-to-Structural-Recognition.png)
+
+---
+
 # 1. The Success of Metric Similarity
 
 Modern AI has demonstrated the enormous value of metric similarity.

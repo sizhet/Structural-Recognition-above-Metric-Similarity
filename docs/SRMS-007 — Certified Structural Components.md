@@ -24,6 +24,10 @@ Recognition therefore becomes a continuous process of structural asset creation.
 
 ---
 
+![Fig-007—Certified-Structural-Components-and-Structural-Assets.png](./figures/Fig-007—Certified-Structural-Components-and-Structural-Assets.png)
+
+---
+
 # 1. Recognition Produces Assets
 
 Recognition is often viewed as a transient computational activity.

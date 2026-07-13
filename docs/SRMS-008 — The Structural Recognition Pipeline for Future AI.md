@@ -28,6 +28,10 @@ Recognition becomes the organizing principle of intelligent computation.
 
 ---
 
+![Fig-008—The-Structural-Recognition-Pipeline-for-Future-AI.png](./figures/Fig-008—The-Structural-Recognition-Pipeline-for-Future-AI.png)
+
+---
+
 # 1. From Similarity-Centered AI to Recognition-Centered AI
 
 Many contemporary AI systems are organized around a relatively simple workflow.
@@ -345,6 +349,12 @@ It is no longer responsible for determining structural identity.
 ---
 
 # 15. Conclusion
+
+---
+
+![Fig-000—SRMS-Overview.png](./figures/Fig-000—SRMS-Overview.png)
+
+---
 
 Modern AI has demonstrated the remarkable power of metric similarity.
 

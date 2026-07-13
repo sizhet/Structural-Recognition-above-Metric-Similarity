@@ -22,6 +22,10 @@ This process forms one of the fundamental mechanisms of reliable AI.
 
 ---
 
+![Fig-006—Structural-Confidence-Accumulation.png](./figures/Fig-006—Structural-Confidence-Accumulation.png)
+
+---
+
 # 1. Recognition Is Progressive
 
 Many AI systems implicitly assume that recognition occurs instantly.

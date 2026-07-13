@@ -22,6 +22,10 @@ Recognizing these decisive structural deltas is one of the central capabilities 
 
 ---
 
+![Fig-004a—Small-but-Decisive-Structural-Deltas.png](./figures/Fig-004a—Small-but-Decisive-Structural-Deltas.png)
+
+---
+
 # 1. Not All Structural Differences Matter Equally
 
 Every complex object contains countless differences.
