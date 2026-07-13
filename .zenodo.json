@@ -1,33 +1,49 @@
 {
-  "title": "Information Job Shop (IJS): From Von Neumann Computing to Information Manufacturing",
-  "upload_type": "publication",
-  "publication_type": "workingpaper",
-  "description": "Information Job Shop (IJS) proposes a new engineering paradigm for future computing in which information itself becomes the computational workpiece. Extending the classical Job Shop concept from manufacturing engineering, IJS organizes heterogeneous computational resources—including LLMs, AI agents, software tools, human experts, and future Brain Units—around dynamically evolving Information Jobs. Rather than focusing solely on instruction execution, the framework views modern AI systems as Information Manufacturing systems capable of routing, planning, generating, verifying, and continuously refining information. This repository introduces Information Job Shop as a conceptual foundation for Information Manufacturing, Human-AI collaborative production, and future computational architectures.",
+  "title": "Structural Recognition above Metric Similarity (SRMS): From Recognition-Gated Cosine Scoring to Recognition-Centered AI",
+  "description": "Structural Recognition above Metric Similarity (SRMS) presents a recognition-centered computational architecture for future AI. The repository argues that structural identity, critical deltas, decision boundaries, runtime activation, runtime invariants, structural confidence, and certified structural assets should be established before metric similarity performs ranking and optimization. It introduces the Base-Delta Asymmetry Principle, Recognition-Gated Cosine Scoring, Small but Decisive Structural Deltas, Structural Recognition as Runtime Intelligence, Structural Confidence Accumulation, Certified Structural Components, and the Structural Recognition Pipeline for Future AI. The central principle is: Recognition establishes the computational world; similarity optimizes inside that world.",
   "creators": [
     {
-      "name": "Tan, Sizhe",
-      "affiliation": "Independent Researcher",
-      "orcid": ""
+      "name": "Tan, Sizhe"
+    },
+    {
+      "name": "GPT-Obot"
     }
   ],
   "keywords": [
-    "Artificial Intelligence",
-    "Information Job Shop",
-    "Information Manufacturing",
-    "Information Jobs",
-    "Computing Architecture",
-    "Job Shop Scheduling",
-    "AI Agents",
-    "Large Language Models",
-    "Human-AI Collaboration",
-    "Brain Units",
-    "Runtime Systems",
-    "Computational Organization",
-    "Future Computing",
-    "Structural Intelligence"
+    "Structural Recognition",
+    "Metric Similarity",
+    "Recognition-Centered AI",
+    "Recognition-Gated Cosine Scoring",
+    "Base-Delta Asymmetry",
+    "Structural Delta",
+    "Decision Boundary",
+    "Runtime Intelligence",
+    "Runtime Invariant",
+    "Structural Confidence",
+    "Certified Structural Components",
+    "Certified Structural Assets",
+    "Structural Intelligence",
+    "Cosine Similarity",
+    "Artificial Intelligence"
   ],
   "license": "Apache-2.0",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "publication_date": "2026-07-13",
+  "version": "1.0.0",
   "language": "eng",
   "access_right": "open",
-  "version": "1.0.0"
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/sizhet/Structural-Recognition-above-Metric-Similarity",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/sizhet/Structural-Recognition-above-Metric-Similarity/tree/v1.0.0",
+      "relation": "isVersionOf",
+      "scheme": "url"
+    }
+  ],
+  "notes": "This repository is part of the broader Structural Intelligence research program developed by Sizhe Tan and GPT-Obot. It is designed as a theory-and-architecture repository, with eight companion texts and nine figures forming a progressive visual and conceptual framework."
 }

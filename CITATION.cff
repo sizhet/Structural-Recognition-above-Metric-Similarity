@@ -1,41 +1,69 @@
 cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it using the metadata below."
 
-title: "Information Job Shop (IJS): From Von Neumann Computing to Information Manufacturing"
+title: "Structural Recognition above Metric Similarity (SRMS): From Recognition-Gated Cosine Scoring to Recognition-Centered AI"
 
-message: >
-  If you use this repository in your research,
-  please cite it using the metadata below.
-
-type: report
-
-authors:
-  - family-names: Tan
-    given-names: Sizhe
-
-abstract: >
-  Information Job Shop (IJS) proposes a new engineering paradigm
-  in which information itself becomes the computational workpiece.
-  Extending the classical Job Shop concept from manufacturing engineering,
-  the framework organizes heterogeneous computational resources around
-  dynamically evolving Information Jobs and introduces Information
-  Manufacturing as a higher-level abstraction for future AI systems.
-
-keywords:
-  - Artificial Intelligence
-  - Information Job Shop
-  - Information Manufacturing
-  - Information Jobs
-  - AI Agents
-  - Large Language Models
-  - Human-AI Collaboration
-  - Brain Units
-  - Runtime Systems
-  - Job Shop Scheduling
-  - Computational Organization
-  - Structural Intelligence
-
-license: Apache-2.0
+type: article
 
 version: 1.0.0
 
-date-released: 2026-07-08
+date-released: 2026-07-13
+
+authors:
+
+* family-names: Tan
+  given-names: Sizhe
+* name: GPT-Obot
+
+abstract: >-
+Structural Recognition above Metric Similarity (SRMS) presents a
+recognition-centered computational architecture for future AI. It argues
+that structural identity, critical deltas, decision boundaries, runtime
+activation, runtime invariants, structural confidence, and certified
+structural assets should be established before metric similarity performs
+ranking and optimization. The repository introduces the Base-Delta
+Asymmetry Principle, Recognition-Gated Cosine Scoring, Small but Decisive
+Structural Deltas, Structural Recognition as Runtime Intelligence,
+Structural Confidence Accumulation, Certified Structural Components, and
+the Structural Recognition Pipeline for Future AI. Its central principle
+is that recognition establishes the computational world, while similarity
+optimizes inside that world.
+
+keywords:
+
+* Structural Recognition
+* Metric Similarity
+* Recognition-Centered AI
+* Recognition-Gated Cosine Scoring
+* Base-Delta Asymmetry
+* Structural Delta
+* Decision Boundary
+* Runtime Intelligence
+* Runtime Invariant
+* Structural Confidence
+* Certified Structural Components
+* Certified Structural Assets
+* Structural Intelligence
+* Cosine Similarity
+* Artificial Intelligence
+
+license: Apache-2.0
+
+repository-code: "https://github.com/sizhet/Structural-Recognition-above-Metric-Similarity"
+
+url: "https://github.com/sizhet/Structural-Recognition-above-Metric-Similarity"
+
+preferred-citation:
+type: article
+title: "Structural Recognition above Metric Similarity (SRMS): From Recognition-Gated Cosine Scoring to Recognition-Centered AI"
+authors:
+- family-names: Tan
+given-names: Sizhe
+- name: GPT-Obot
+year: 2026
+month: 7
+day: 13
+version: 1.0.0
+publisher:
+name: Zenodo
+url: "https://github.com/sizhet/Structural-Recognition-above-Metric-Similarity"
