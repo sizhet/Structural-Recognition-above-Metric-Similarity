@@ -372,6 +372,10 @@ these mechanisms form a recognition-centered computational architecture suitable
 
 ---
 
+![Fig-000—SRMS-Overview.png](./figures/Fig-000—SRMS-Overview.png)
+
+---
+
 # Key Takeaways
 
 * Recognition organizes computation before similarity.

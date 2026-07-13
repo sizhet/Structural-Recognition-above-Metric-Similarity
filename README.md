@@ -45,6 +45,15 @@ It is to place similarity inside a larger structural recognition architecture.
 
 ---
 
+## Quick Navigation
+
+- [Start Here](./docs/START-HERE.md)
+- [Figure Index](./docs/FIGURE-INDEX.md)
+- [Technical Papers](./docs/)
+- [PDF Collection](./docs/pdf/)
+
+---
+
 # Central Principle
 
 Traditional AI typically follows:
@@ -220,7 +229,7 @@ Integrates the entire repository into one recognition-centered computational arc
 
 ---
 
-![Fig-000—SRMS-Overview.png](./docs/figures/Fig-000—SRMS-Overview.png)
+![Fig-008—The-Structural-Recognition-Pipeline-for-Future-AI.png](./docs/figures/Fig-008—The-Structural-Recognition-Pipeline-for-Future-AI.png)
 
 ---
 
