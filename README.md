@@ -128,19 +128,25 @@ Reliable intelligence depends on performing these two computations in the correc
 
 ## SRMS-001 — Why Structural Recognition Must Stand above Metric Similarity
 
+Introduces the central principle of the repository.
+
+Explains why structural recognition should precede metric similarity.
+
+- [SRMS-001—Why_Structural_Recognition_Must_Stand_above_Metric_Similarity.md](./docs/SRMS-001—Why_Structural_Recognition_Must_Stand_above_Metric_Similarity.md)
+
 ---
 
 ![Fig-001—From-Metric-Similarity-to-Structural-Recognition.png](./docs/figures/Fig-001—From-Metric-Similarity-to-Structural-Recognition.png)
 
 ---
 
-Introduces the central principle of the repository.
-
-Explains why structural recognition should precede metric similarity.
-
----
-
 ## SRMS-002 — The Base–Delta Asymmetry Principle
+
+Shows why a tiny structural delta can dominate a massive shared structural base.
+
+Introduces one of the core theoretical principles of SRMS.
+
+- [SRMS-002—The_Base–Delta_Asymmetry_Principle.md](./docs/SRMS-002—The_Base–Delta_Asymmetry_Principle.md)
 
 ---
 
@@ -148,26 +154,27 @@ Explains why structural recognition should precede metric similarity.
 
 ---
 
-Shows why a tiny structural delta can dominate a massive shared structural base.
-
-Introduces one of the core theoretical principles of SRMS.
-
----
-
 ## SRMS-003 — Recognition-Gated Cosine Scoring
+
+Presents the primary algorithmic contribution.
+
+Cosine similarity is preserved but applied only after structural recognition has constructed a compatible candidate space.
+
+- [SRMS-003—Recognition-Gated_Cosine_Scoring.md](./docs/SRMS-003—Recognition-Gated_Cosine_Scoring.md)
 
 ---
 
 ![Fig-003—Recognition-Gated-Cosine-Scoring.png](./docs/figures/Fig-003—Recognition-Gated-Cosine-Scoring.png)
 
 ---
-Presents the primary algorithmic contribution.
-
-Cosine similarity is preserved but applied only after structural recognition has constructed a compatible candidate space.
-
----
 
 ## SRMS-004 — Small but Decisive Structural Deltas
+
+Analyzes the structural differences that actually determine engineering decisions.
+
+Shows why decision boundaries are structural rather than metric.
+
+- [SRMS-004—Small_but_Decisive_Structural_Deltas.md](./docs/SRMS-004—Small_but_Decisive_Structural_Deltas.md)
 
 ---
 
@@ -175,13 +182,13 @@ Cosine similarity is preserved but applied only after structural recognition has
 
 ---
 
-Analyzes the structural differences that actually determine engineering decisions.
-
-Shows why decision boundaries are structural rather than metric.
-
----
-
 ## SRMS-005 — Structural Recognition as Runtime Intelligence
+
+Proposes that recognition is not merely classification.
+
+Recognition activates the correct runtime, Calling Graph, Runtime Invariants, and computational world.
+
+- [SRMS-005—Structural_Recognition_as_Runtime_Intelligence.md](./docs/SRMS-005—Structural_Recognition_as_Runtime_Intelligence.md)
 
 ---
 
@@ -189,13 +196,13 @@ Shows why decision boundaries are structural rather than metric.
 
 ---
 
-Proposes that recognition is not merely classification.
-
-Recognition activates the correct runtime, Calling Graph, Runtime Invariants, and computational world.
-
----
-
 ## SRMS-006 — Structural Confidence Accumulation
+
+Introduces structural confidence as accumulated engineering evidence rather than statistical probability.
+
+Connects recognition to trustworthy decision making.
+
+- [SRMS-006—Structural_Confidence_Accumulation.md](./docs/SRMS-006—Structural_Confidence_Accumulation.md)
 
 ---
 
@@ -203,13 +210,13 @@ Recognition activates the correct runtime, Calling Graph, Runtime Invariants, an
 
 ---
 
-Introduces structural confidence as accumulated engineering evidence rather than statistical probability.
-
-Connects recognition to trustworthy decision making.
-
----
-
 ## SRMS-007 — Certified Structural Components
+
+Explains how successful recognition becomes reusable engineering infrastructure through certification.
+
+Introduces Certified Structural Assets as long-term computational capital.
+
+- [SRMS-007—Certified-Structural-Components.md](./docs/SRMS-007—Certified-Structural-Components.md)
 
 ---
 
@@ -217,15 +224,11 @@ Connects recognition to trustworthy decision making.
 
 ---
 
-Explains how successful recognition becomes reusable engineering infrastructure through certification.
-
-Introduces Certified Structural Assets as long-term computational capital.
-
----
-
 ## SRMS-008 — The Structural Recognition Pipeline for Future AI
 
 Integrates the entire repository into one recognition-centered computational architecture for future AI.
+
+- [SRMS-008—The_Structural_Recognition_Pipeline_for_Future AI.md](docs/SRMS-008—The_Structural_Recognition_Pipeline_for_Future AI.md)
 
 ---
 
