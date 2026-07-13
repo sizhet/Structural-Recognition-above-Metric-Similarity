@@ -147,3 +147,7 @@
 46. Information Job Shop (IJS) - \
     From Von Neumann Computing to Information Manufacturing \
     Repository: https://github.com/sizhet/Information-Job-Shop-IJS 
+
+47. Structural Recognition above Metric Similarity (SRMS) - \
+    From Recognition-Gated Cosine Scoring to Recognition-Centered AI \
+    Repository: https://github.com/sizhet/Structural-Recognition-above-Metric-Similarity 

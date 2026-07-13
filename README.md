@@ -398,3 +398,34 @@ Future AI will increasingly evolve from **Similarity-Centered AI** toward **Reco
 # SRMS Principle
 
 > **Recognition establishes the computational world. Similarity optimizes inside that world. Recognition determines identity. Similarity measures proximity. Reliable AI requires Recognition First and Similarity Second.**
+
+
+---
+
+## Author
+
+Sizhe Tan\
+Independent Researcher
+
+GPT-Obot\
+AI Research Assistant
+
+2026
+
+## Citation
+
+DOI: TBD
+
+## License
+
+Apache-2.0
+
+---
+
+## 📚 DBM-SI Series Navigation
+
+See:\
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md)
+
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md)
+
