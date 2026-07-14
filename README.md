@@ -426,7 +426,7 @@ AI Research Assistant
 
 ## Citation
 
-DOI: TBD
+DOI: 10.5281/zenodo.21348222
 
 ## License
 
